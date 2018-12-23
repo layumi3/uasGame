@@ -11,3 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 999924a3979aef84b9670bb276030e3f
+  - enabled: 0
+    path: Assets/Scenes/Ujian.unity
+    guid: a2659e533b57afb4ca7a439aff25bbce
+  - enabled: 1
+    path: Assets/Scenes/Kredit.unity
+    guid: fd82ea5a9697129438c3dafe2a1b4c23
+  - enabled: 1
+    path: Assets/Scenes/GameUtama.unity
+    guid: d1a3b6618fefc564d990989f59842fca

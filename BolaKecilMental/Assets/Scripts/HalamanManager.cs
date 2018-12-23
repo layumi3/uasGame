@@ -23,9 +23,12 @@ public class HalamanManager : MonoBehaviour {
 	}
 
 	public void MulaiPermainan(){
-		SceneManager.LoadScene ("Main");
+		SceneManager.LoadScene ("GameUtama");
 	}
 	public void KembaliKeMenu(){
 		SceneManager.LoadScene ("Menu");
+	}
+	public void KreditPermainan(){
+		SceneManager.LoadScene ("Kredit");
 	}
 }
